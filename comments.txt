@@ -3,3 +3,4 @@ git init
 // git config --local user.email viktor.lugovskoy@yahoo.com
 git config --global user.name "Viktor"
 git config --global user.email viktor.lugovskoy@yahoo.com
+git commit -a -m "First commit"
