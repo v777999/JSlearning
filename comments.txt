@@ -1,0 +1,5 @@
+git init
+// git config --local user.name "Viktor"
+// git config --local user.email viktor.lugovskoy@yahoo.com
+git config --global user.name "Viktor"
+git config --global user.email viktor.lugovskoy@yahoo.com
