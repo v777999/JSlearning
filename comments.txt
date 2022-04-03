@@ -4,3 +4,15 @@ git init
 git config --global user.name "Viktor"
 git config --global user.email viktor.lugovskoy@yahoo.com
 git commit -a -m "First commit"
+git commit -a -m "Second commit"
+
+Create new repositoriy on GitHub JSlearning
+git remote add origin git@github.com:v777999/JSlearning.git
+git branch -M main
+git push -u origin main
+git push
+
+При работе на другом компе, например в оффисе сначала клонируем репозиторий с Git Hub на рабочий комп, 
+находясь в папке в которой создастся папка с клонированым проектом из репозитория - git clone....
+далее
+git pull - для получения последних изменений из репозитория
