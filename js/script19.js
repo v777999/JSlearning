@@ -86,7 +86,8 @@ log(...num) // 2 5 7
 
 const array = ["a", "b"]
 
-const newArray = [...array]
+const newAarray = [...array]
+console.log(newAarray)
 
 const q = {
 	one: 1,
