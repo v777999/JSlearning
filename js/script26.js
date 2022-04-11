@@ -32,6 +32,7 @@ const div = document.createElement("div"); // создан но не появи�
 div.classList.add("black");
 
 wrapper.append(div);
+
 // wrapper.prepend(div);
 
 // hearts[0].before(div);
